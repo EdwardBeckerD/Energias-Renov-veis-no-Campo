@@ -29,17 +29,14 @@ button{
     border-radius: 30px;
     background-color: var(--button-color);
     border-style: none;
-    display: flex;
-    align-items: center;
-    justify-content: center;
 }
 button .bar_button{
     background-color: brown;
+    border-radius: 10px;
+    margin: 2px auto;
     height: 5px;
     width: 20px;
-    position: relative;
 }
-button
 .separator{
     background-color: var(--terciary-color);
 }
