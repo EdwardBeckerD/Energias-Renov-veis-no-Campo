@@ -101,15 +101,15 @@ footer h3{
         border-radius: 0 30px 30px 0;
     }
     #img1{
-        background-image: url(../media/usina-hidreletrica-itaipu.jpg);
+        background-image: url(./media/usina-hidreletrica-itaipu.jpg);
         background-size: 150%;
     }
     #img2{
-        background-image: url(../media/cana-de-acucar.jpg);
+        background-image: url(./media/cana-de-acucar.jpg);
         background-size: 100%;
     }
     #img3{
-        background-image: url(../media/painel-solar.jpg);
+        background-image: url(./media/painel-solar.jpg);
         background-size: 100%;
     }
     #img4{
